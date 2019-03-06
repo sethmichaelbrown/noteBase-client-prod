@@ -1,3 +1,13 @@
+Planning Materials - 
+
+Trello - https://trello.com/b/XM6oflcL/capstone
+
+Wireframe = https://www.figma.com/file/bW1fDhWZNUIttUAvppbBuJqQ/nodeBase?node-id=1%3A2
+
+ERD - https://www.lucidchart.com/invitations/accept/1f60a455-30a8-4de0-b6a7-827b7e3d0c1d
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
